@@ -1,4 +1,4 @@
-# codsoft_task2
+# Design
 
 # Restaurant menu
 
